@@ -57,7 +57,7 @@ Now commit again, you can even re-use the same commit message:
 
 ## Undo
 
-Link to a git [undo](https://docs.gitlab.com/ee/topics/git/numerous_undo_possibilities_in_git/) resource.
+[undo](./git-undo.md)
 	
 ---    
 

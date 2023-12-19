@@ -7,6 +7,7 @@ Write once read twice
 - [Bash](./docs/bash/bash.md)
 - [Git Configuration](./docs/git/git-config.md)
 - [Git Development](./docs/git/git-dev.md)
+  - [Git Undo](./docs/git/git-undo.md)
 - [Git Bisect](./docs/git/git-bisect.md)
 - [Git Diff](./docs/git/git-diff.md)
 - [Git Merge](./docs/git/git-merge.md)
